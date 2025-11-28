@@ -9,4 +9,3 @@ for n in range(1, 10):
     output[n] = count
 
 print(output)
-
